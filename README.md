@@ -19,6 +19,8 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  Ich stoße bei meiner Suche auf viel verschiedene "Pixelart-games", wobei ich bemerke, dass ich sehr viele Möglichkeiten besitze ein Spiel auf diese Weise zu gestalten.
  
  ### Informatikstunde Nr. 3  (21.08.2019)
- Heute suche ich mir ein Programm aus, mit welchem ich mein Projekt verwirklichen möchte. Dabei suche ich viele Arten von einfachen Programmiersprachen, welche gut für Anfänger geeignet sind. Nachdem ich mir die Möglichkeiten und Schwierigkeitsgrade verschiedener Sprachen angeschaut hatte, entschied ich mich nach ["Greenfoot"](https://www.greenfoot.org/door) und ["Unity"](https://unity.com/de) für die ["Godot-Engine"](https://godotengine.org/)
- 
+ Heute suche ich mir ein Programm aus, mit welchem ich mein Projekt verwirklichen möchte. Dabei suche ich viele Arten von einfachen Programmiersprachen, welche gut für Anfänger geeignet sind. Nachdem ich mir die Möglichkeiten und Schwierigkeitsgrade verschiedener Sprachen angeschaut hatte, entschied ich mich nach ["Greenfoot"](https://www.greenfoot.org/door) und ["Unity"](https://unity.com/de) für die ["Godot-Engine"](https://godotengine.org/).
+ Diese Engine besitzt die Möglichkeit mir, als Anfänger, hilfreiche Vorlagen zu bieten und zudem viele aufschlussreiche Tutorials. Außerdem gibt es eine einfach Hilfe in der Engine selber, wodurch ich einfach wichige Befehle und ihre Funktion finde.
+ Zudem kann ich nun mich einfach zwischen einer 2D- oder 3D-Welt entscheiden, wobei ich mich für eine 2D-Welt entscheide:
+ ![alt text](file:///H:/Desktop/stundenblog/Unbenannt.PNG)
  
