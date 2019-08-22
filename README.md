@@ -23,4 +23,5 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  Diese Engine besitzt die Möglichkeit mir, als Anfänger, hilfreiche Vorlagen zu bieten und zudem viele aufschlussreiche Tutorials. Außerdem gibt es eine einfach Hilfe in der Engine selber, wodurch ich einfach wichige Befehle und ihre Funktion finde.
  Zudem kann ich nun mich einfach zwischen einer 2D- oder 3D-Welt entscheiden, wobei ich mich für eine 2D-Welt entscheide:
  ![Menu erster test](https://user-images.githubusercontent.com/9617583/28182906-940ac83a-67db-11e7-8472-59ce285900b1.gif)
- 
+
+Nun werde ich beginnen heruszufinden, wie ich texturen in das Spiel bekomme und die allgmeine Spielwelt erschaffe, in welcher meine Figur gesteuert wird. Dazu schaue ich mir ein hilfreiches Video auf Youtube an, in welchem ein Spiel programmiert wird bzw. es angefangen wird: [Video](https://www.youtube.com/watch?v=d0q2iWN5nS0)
