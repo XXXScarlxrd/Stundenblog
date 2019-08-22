@@ -15,6 +15,10 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  ### Informatikstunde Nr. 2  (20.08.2019)
  Heute beginne ich mit dem Schreiben meines Stundenblogs, wofür ich mir eine Liste mit Befehlen im Internet raussuche, denn der Blog wird im Code geschrieben. Ich wurde schnell fündig und habe nun, wenn immer ich am Blog schreibe, diese Liste mit Befehlen offen: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
  
- Nun suche ich nach Inspirationen für mein Spiel, wofür ich mir Videos zu einfachen aber "coolen" Spielen auf ["Youtube"](https://www.youtube.com/?gl=DE&hl=de) anschaue.
- Ich stoße bei meiner Suche auf viel verschiedene "Pixelart-games", wobei ich bemerke, dass sehr viele Möglichkeiten besitzt ein Spiel auf diese Weise zu gestalten. Ich stoße zudem auf mei
+ Nun suche ich nach Inspirationen für mein Spiel, wofür ich mir Videos zu einfachen, aber "coolen", Spielen auf ["Youtube"](https://www.youtube.com/?gl=DE&hl=de) anschaue.
+ Ich stoße bei meiner Suche auf viel verschiedene "Pixelart-games", wobei ich bemerke, dass ich sehr viele Möglichkeiten besitze ein Spiel auf diese Weise zu gestalten.
+ 
+ ### Informatikstunde Nr. 3  (21.08.2019)
+ Heute suche ich mir ein Programm aus, mit welchem ich mein Projekt verwirklichen möchte. Dabei suche ich viele Arten von einfachen Programmiersprachen, welche gut für Anfänger geeignet sind. Nachdem ich mir die Möglichkeiten und Schwierigkeitsgrade verschiedener Sprachen angeschaut hatte, entschied ich mich nach ["Greenfoot"](https://www.greenfoot.org/door) und ["Unity"](https://unity.com/de) für die ["Godot-Engine"](https://godotengine.org/)
+ 
  
