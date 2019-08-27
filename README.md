@@ -30,3 +30,5 @@ Nun werde ich beginnen heruszufinden, wie ich texturen in das Spiel bekomme und 
 Heute habe ich angefangen die ersten zwei Vidoes, der Videoreihe, anzuschauen. Damit konnte ich mir einen kleinen Überblick verschaffen, bezüglich der Frage, wie man überhaupt beginnt mit solch einer Programmierung und was ich dazu benötige. 
 Ich weiß nun, dass ich ein Texturenprogramm brauche, in welchem ich meine Figuren erstellen kann, wenn ich dies tun möchte. Allerdings kann ich auch Bilder aus dem Internet verwernden, wobei es sicherlich viele hilfreiche Foren, mit vorgefertigten Texturen gibt. Ich weiß nun zudem, dass wie ich mir meine Engine so sortiere, dass es so bequem, wie möglich fpr mich ist, wenn ich anfange zu proframmieren.
 
+Ich beginne also damit, Bilder im Internet zu suchen, welche ich im Spiel verwenden möchte. Dafür lege ich einen neuen Ordner auf dem Desktop an, in welchem ich meine Dateien vorerst sotiere.
+
