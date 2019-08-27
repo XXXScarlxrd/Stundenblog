@@ -25,3 +25,8 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  ![Menu erster test](https://user-images.githubusercontent.com/9617583/28182906-940ac83a-67db-11e7-8472-59ce285900b1.gif)
 
 Nun werde ich beginnen heruszufinden, wie ich texturen in das Spiel bekomme und die allgmeine Spielwelt erschaffe, in welcher meine Figur gesteuert wird. Dazu schaue ich mir ein hilfreiches Video auf Youtube an, in welchem ein Spiel programmiert wird bzw. es angefangen wird: [Videoreihe](https://www.youtube.com/watch?v=zBlVezhQeq0&list=PLv3l-oZCXaqkUEqrLsKJIAhAxK_Im6Qew&index=2)
+
+### Informatikstunde Nr. 4  (27.08.2019)
+Heute habe ich angefangen die ersten zwei Vidoes, der Videoreihe, anzuschauen. Damit konnte ich mir einen kleinen Überblick verschaffen, bezüglich der Frage, wie man überhaupt beginnt mit solch einer Programmierung und was ich dazu benötige. 
+Ich weiß nun, dass ich ein Texturenprogramm brauche, in welchem ich meine Figuren erstellen kann, wenn ich dies tun möchte. Allerdings kann ich auch Bilder aus dem Internet verwernden, wobei es sicherlich viele hilfreiche Foren, mit vorgefertigten Texturen gibt. Ich weiß nun zudem, dass wie ich mir meine Engine so sortiere, dass es so bequem, wie möglich fpr mich ist, wenn ich anfange zu proframmieren.
+
