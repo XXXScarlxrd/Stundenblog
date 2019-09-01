@@ -33,5 +33,7 @@ Ich weiß nun, dass ich ein Texturenprogramm brauche, in welchem ich meine Figur
 Ich beginne also damit, Bilder im Internet zu suchen, welche ich im Spiel verwenden möchte. Dafür lege ich einen neuen Ordner auf dem Desktop an, in welchem ich meine Dateien vorerst sotiere.
 
 ### Informatikstunde Nr. 5  (28.08.2019)
-Ich habe heute viele der essentiellen Sounds, Bilder und Musiken heruntergeladen und in meinem Sammelordner sortiert.
+Ich habe heute viele der essentiellen Sounds, Bilder und Musiken heruntergeladen und in meinem Sammelordner sortiert. Diese habe ich übger die Unterrichtsstunde gesammelt und sende sie mir am ende per E-mail, an mich selber. Somit kann ich Zuhause damit anfangen zu programmieren.
+
+### Zuhausestunde Nr. 1  (1.09.2019)
 
