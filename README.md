@@ -35,7 +35,27 @@ Ich beginne also damit, Bilder im Internet zu suchen, welche ich im Spiel verwen
 ### Informatikstunde Nr. 5  (28.08.2019)
 Ich habe heute viele der essentiellen Sounds, Bilder und Musiken heruntergeladen und in meinem Sammelordner sortiert. Diese habe ich über die Unterrichtsstunde gesammelt und sende sie mir am ende per E-mail, an mich selber. Somit kann ich Zuhause damit anfangen zu programmieren.
 
-### Zuhausestunde Nr. 1  (23.09.2019)
+### Zuhausestunde Nr. 1  (22.09.2019)
 Ich habe bemerkt, dass in der Videoreihe, welche mir als Hilfe dient, eine ältere Version der Engine genutzt wird. 
-Das heißt, ich werde recherchieren müssen, wie alte Befehle in neue übersetzt wurden. Für meine Recherche nutze ich das [Godot-Forum](https://www.godot-community.de)
+Das heißt, ich werde recherchieren müssen, wie alte Befehle in neue übersetzt wurden. Für meine Recherche nutze ich das [Godot-Forum](https://www.godot-community.de/). Hier finde ich viele Diskussionen und Hilfestellungen rund um die Engine und ihre Sprache.
+Ich beginne nun damit die, in der Programmierung genutzten, Dateien in die richtig benannten Ordner zu sotieren. 
+Dabei dient ein "sprites"-Ordner ordner für die Texturen, welche ich für mein Spiel verwende. Dazu kommt ein "Skript"-Ordner im welchen ich die verschiedenen Skripts aufbewahre, welche die Befehle und Gegebenheiten für das Spielumfeld und die Objekte im Spiel bestimmen.
+
+# Erster Schritt: 
+Zuerst ändere ich die allgemeine Farbe des Spielhintergrundes in Schwarz, denn mein Spiel findet im Weltraum statt.
+Als nächstes erstelle ich bereits mein erstes Objekt: Das Raumschiff, welches man im Spiel steuert. Dazu erstelle ich eine "Node", an welche ich einen "Sprite"-Pfad und einen "Collition"-Pfrad anschließe. Die "Node" stellt dabei das Objekt selber da und in dieser wird später auch der Programmiertext kodiert. Der "Sprite"-Pfad sorgt dafür, dass das Raumschiff eine Textur bekommt und der "Collition"-Pfad sorgt für die "Hitbox". Diese bestimmt den bereich in welcher das Objekt mit anderen "Hitboxen" reagiert.
+Den "Sprite"-Pfad verinde ich nun mit einer Datei, welche meine Textur ist. Somit bekommt mein Raumschiff ein Aussehen.
+Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiffes entspricht, damit es so wirkt, als würde das Raumschiff etwas berühren und mit dem Berührten reagieren. Da diese beiden Pfade in einer Node, also dem Objekt "Raumschiff" plaziert sind, werden die verbunden und zusammen zur Objekt der "Node".
+
+# Zweiter Schritt:
+Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür werde ich die Maus aus Controller nutzen. Für das im ersten Schritt erstellte Objekt schreibe ich also ein Skript wodurch das Raumschiff weiß, dass es meinem Mauszeiger folgen muss, sofern sich dieser bewegt. 
+
+
+
+
+
+
+
+### Informatikstunde Nr. 6  (24.09.2019)
+Heute schreibe ich lediglich meinen Studenblog weiter. Dabei beschreibe ich, was ich Zuhause erarbeitet habe in einzelnen Schritten.
 
