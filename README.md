@@ -33,7 +33,9 @@ Ich weiß nun, dass ich ein Texturenprogramm brauche, in welchem ich meine Figur
 Ich beginne also damit, Bilder im Internet zu suchen, welche ich im Spiel verwenden möchte. Dafür lege ich einen neuen Ordner auf dem Desktop an, in welchem ich meine Dateien vorerst sotiere.
 
 ### Informatikstunde Nr. 5  (28.08.2019)
-Ich habe heute viele der essentiellen Sounds, Bilder und Musiken heruntergeladen und in meinem Sammelordner sortiert. Diese habe ich übger die Unterrichtsstunde gesammelt und sende sie mir am ende per E-mail, an mich selber. Somit kann ich Zuhause damit anfangen zu programmieren.
+Ich habe heute viele der essentiellen Sounds, Bilder und Musiken heruntergeladen und in meinem Sammelordner sortiert. Diese habe ich über die Unterrichtsstunde gesammelt und sende sie mir am ende per E-mail, an mich selber. Somit kann ich Zuhause damit anfangen zu programmieren.
 
-### Zuhausestunde Nr. 1  (1.09.2019)
+### Zuhausestunde Nr. 1  (23.09.2019)
+Ich habe bemerkt, dass in der Videoreihe, welche mir als Hilfe dient, eine ältere Version der Engine genutzt wird. 
+Das heißt, ich werde recherchieren müssen, wie alte Befehle in neue übersetzt wurden. Für meine Recherche nutze ich das [Godot-Forum](https://www.godot-community.de)
 
