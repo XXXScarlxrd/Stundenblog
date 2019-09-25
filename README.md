@@ -46,7 +46,7 @@ Zuerst ändere ich die allgemeine Farbe des Spielhintergrundes in Schwarz, denn 
 Als nächstes erstelle ich bereits mein erstes Objekt: Das Raumschiff, welches man im Spiel steuert. Dazu erstelle ich eine "Node", an welche ich einen "Sprite"-Pfad und einen "Collition"-Pfad anschließe. Die "Node" stellt dabei das Objekt selber da und in dieser wird später auch der Programmiertext kodiert. Der "Sprite"-Pfad sorgt dafür, dass das Raumschiff eine Textur bekommt und der "Collition"-Pfad sorgt für die "Hitbox". Diese bestimmt den bereich in welcher das Objekt mit anderen "Hitboxen" reagiert.
 Den "Sprite"-Pfad verinde ich nun mit einer Datei, welche meine Textur ist. Somit bekommt mein Raumschiff ein Aussehen.
 Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiffes entspricht, damit es so wirkt, als würde das Raumschiff etwas berühren und mit dem Berührten reagieren. Da diese beiden Pfade in einer Node, also dem Objekt "Raumschiff" plaziert sind, werden die verbunden und zusammen zur Objekt der "Node". Der folgende Code sieht dann wie folgt aus:
-![alt text](https://www.bilder-upload.eu/bild-0e1dbd-1569406227.png.html)
+[URL=https://www.bilder-upload.eu/bild-0e1dbd-1569406227.png.html][IMG]https://www.bilder-upload.eu/thumb/0e1dbd-1569406227.png[/IMG][/URL]
 
 ### Zweiter Schritt:
 Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür werde ich die Maus als Controller nutzen. Für das im ersten Schritt erstellte Objekt schreibe ich also ein Skript wodurch das Raumschiff weiß, dass es meinem Mauszeiger folgen muss, sofern sich dieser bewegt.
