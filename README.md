@@ -50,6 +50,7 @@ Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiff
 
 ### Zweiter Schritt:
 Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür werde ich die Maus als Controller nutzen. Für das im ersten Schritt erstellte Objekt schreibe ich also ein Skript wodurch das Raumschiff weiß, dass es meinem Mauszeiger folgen muss, sofern sich dieser bewegt. Dabei hatte ich zuerst das Problem, dass wenige Befehle in, der von mir verwendeten, neueren Version von Godot, verändert wurden. Die Funktion dieser bleibt dennoch die Gleiche. Zuerst also versuchte ich dieses Skript:
+![Falsches Skript](https://www.bilder-upload.eu/bild-15457b-1569484584.png.html)
 
 
 
@@ -63,4 +64,7 @@ Heute schreibe ich lediglich meinen Studenblog weiter. Dabei beschreibe ich, was
 ## Informatikstunde Nr. 7  (25.09.2019)
 Heute habe ich gemerkt,dass ich keine Bilder in meinem Studenblog einfügen kann, sofern ich es nicht über einen Web-Link versuche. 
 Allerdings sind meine Bilder auf dem USB-Stick und auf dem Rechner gespeichert. Also versuche ich die Bilder auf Google hochzuladen. Allerdings fallen diese dann in viel zu kleiner Auflösung aus.
+
+## Informatikstunde Nr. 8  (26-09-2019)
+Ich entscheide mich dazu, das Problem mit den zu kleinen Bildern im Stundenblog ein anderes Mal zu solvieren, denn am Ende werde ich trotzdem den gleichen Befehl nutzen müssen. Somit füge ich erst einmal weiterhin die benötigten Bilder ein und schreibe weiter auf, was ich Zuhause erarbeitet habe.
 
