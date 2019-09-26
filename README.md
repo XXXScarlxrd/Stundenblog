@@ -74,6 +74,12 @@ Nach einer Rechere auf dem Godot-Forum und Korrektur des Codes, kam ich zu diese
 
 
 ### Dritter Schritt:
+Als nächstes muss ich eine Hintergrund (Sterne) einfügen, welche von "oben" nach "unten" verlaufen und somit für die Illusion sorgen, als würde das Raumschiff sich fort bewegen. Dazu füge ich Texturen für Sterne ein über eine "Sprite", welche mit einer "Node" verbunden ist, in welcher ich dann Befehle über das Skript, an die Textur weiter geben kann. Dazu verwende ich diesen Code:
+
+
+
+
+<a href="https://ibb.co/ZVBc8q7"><img src="https://i.ibb.co/37pSNgQ/Code-sterne.png" alt="Code-sterne" border="0"></a>
 
 
 
