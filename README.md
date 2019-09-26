@@ -63,7 +63,7 @@ Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür 
 
 
 
-<a href="https://ibb.co/f2MRWKm"><img src="https://i.ibb.co/f2MRWKm/altes-skript-schiff.png" alt="altes-skript-schiff" border="0"></a>
+<a href="https://ibb.co/f2MRWKm"><img src="https://i.ibb.co/s2jS4DL/altes-skript-schiff.png" alt="altes-skript-schiff" border="0"></a>
 
 
 
