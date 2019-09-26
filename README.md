@@ -45,16 +45,7 @@ Dabei dient ein "sprites"-Ordner ordner für die Texturen, welche ich für mein 
 Zuerst ändere ich die allgemeine Farbe des Spielhintergrundes in Schwarz, denn mein Spiel findet im Weltraum statt.
 Als nächstes erstelle ich bereits mein erstes Objekt: Das Raumschiff, welches man im Spiel steuert. Dazu erstelle ich eine "Node", an welche ich einen "Sprite"-Pfad und einen "Collition"-Pfad anschließe. Die "Node" stellt dabei das Objekt selber da und in dieser wird später auch der Programmiertext kodiert. Der "Sprite"-Pfad sorgt dafür, dass das Raumschiff eine Textur bekommt und der "Collition"-Pfad sorgt für die "Hitbox". Diese bestimmt den bereich in welcher das Objekt mit anderen "Hitboxen" reagiert.
 Den "Sprite"-Pfad verinde ich nun mit einer Datei, welche meine Textur ist. Somit bekommt mein Raumschiff ein Aussehen.
-Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiffes entspricht, damit es so wirkt, als würde das Raumschiff etwas berühren und mit dem Berührten reagieren. Da diese beiden Pfade in einer Node, also dem Objekt "Raumschiff" plaziert sind, werden die verbunden und zusammen zur Objekt der "Node". Der folgende Code sieht dann wie folgt aus:
-
-
-
-
-
-<a href="https://www.bilder-upload.eu/bild-15457b-1569484584.png.html" target="_blank"><img src="https://www.bilder-upload.eu/thumb/15457b-1569484584.png" border="1" alt="Bilder-Upload.eu - share DEINE Bilder" /></a>
-
-
-
+Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiffes entspricht, damit es so wirkt, als würde das Raumschiff etwas berühren und mit dem Berührten reagieren. Da diese beiden Pfade in einer Node, also dem Objekt "Raumschiff" plaziert sind, werden die verbunden und zusammen zur Objekt der "Node".
 
 
 ### Zweiter Schritt:
@@ -82,6 +73,11 @@ Nach einer Rechere auf dem Godot-Forum und Korrektur des Codes, kam ich zu diese
 
 
 
+### Dritter Schritt:
+
+
+
+
 
 ## Informatikstunde Nr. 6  (24.09.2019)
 Heute schreibe ich lediglich meinen Studenblog weiter. Dabei beschreibe ich, was ich Zuhause erarbeitet habe in einzelnen Schritten.
@@ -91,5 +87,5 @@ Heute habe ich gemerkt,dass ich keine Bilder in meinem Studenblog einfügen kann
 Allerdings sind meine Bilder auf dem USB-Stick und auf dem Rechner gespeichert. Also versuche ich die Bilder auf Google hochzuladen. Allerdings fallen diese dann in viel zu kleiner Auflösung aus.
 
 ## Informatikstunde Nr. 8  (26-09-2019)
-Ich entscheide mich dazu, das Problem mit den zu kleinen Bildern im Stundenblog ein anderes Mal zu solvieren, denn am Ende werde ich trotzdem den gleichen Befehl nutzen müssen. Somit füge ich erst einmal weiterhin die benötigten Bilder ein und schreibe weiter auf, was ich Zuhause erarbeitet habe.
+Das Problem mit den zu kleinen Bildern, habe ich nun behoben. Ich musste lediglich einen anderen Befehl verwenden, welcher das Bild als "Vorschau" darstellt, sonder als "Vollbild". Die Bilder ludt ich im Internet mit der Website [ImgBB](https://de.imgbb.com/) hoch.
 
