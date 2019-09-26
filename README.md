@@ -50,7 +50,7 @@ Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiff
 
 ### Zweiter Schritt:
 Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür werde ich die Maus als Controller nutzen. Für das im ersten Schritt erstellte Objekt schreibe ich also ein Skript wodurch das Raumschiff weiß, dass es meinem Mauszeiger folgen muss, sofern sich dieser bewegt. Dabei hatte ich zuerst das Problem, dass wenige Befehle in, der von mir verwendeten, neueren Version von Godot, verändert wurden. Die Funktion dieser bleibt dennoch die Gleiche. Zuerst also versuchte ich dieses Skript:
-![Falsches Skript]([URL=https://www.bilder-upload.eu/bild-15457b-1569484584.png.html][IMG]https://www.bilder-upload.eu/thumb/15457b-1569484584.png[/IMG][/URL])
+![Falsches Skript](https://www.bilder-upload.eu/bild-15457b-1569484584.png.html)
 
 
 
