@@ -80,6 +80,7 @@ Als nächstes muss ich eine Hintergrund (Sterne) einfügen, welche von "oben" na
 
 
 <a href="https://ibb.co/ZVBc8q7"><img src="https://i.ibb.co/37pSNgQ/Code-sterne.png" alt="Code-sterne" border="0"></a>
+(Das y in der ersten Reihe des Codes im Befehl "Extends" wurde natürlich noch korrigiert)
 
 
 
