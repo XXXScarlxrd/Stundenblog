@@ -46,7 +46,16 @@ Zuerst ändere ich die allgemeine Farbe des Spielhintergrundes in Schwarz, denn 
 Als nächstes erstelle ich bereits mein erstes Objekt: Das Raumschiff, welches man im Spiel steuert. Dazu erstelle ich eine "Node", an welche ich einen "Sprite"-Pfad und einen "Collition"-Pfad anschließe. Die "Node" stellt dabei das Objekt selber da und in dieser wird später auch der Programmiertext kodiert. Der "Sprite"-Pfad sorgt dafür, dass das Raumschiff eine Textur bekommt und der "Collition"-Pfad sorgt für die "Hitbox". Diese bestimmt den bereich in welcher das Objekt mit anderen "Hitboxen" reagiert.
 Den "Sprite"-Pfad verinde ich nun mit einer Datei, welche meine Textur ist. Somit bekommt mein Raumschiff ein Aussehen.
 Danach erstelle ich eine "Collition-Hitbox" welche der Größe meines Raumschiffes entspricht, damit es so wirkt, als würde das Raumschiff etwas berühren und mit dem Berührten reagieren. Da diese beiden Pfade in einer Node, also dem Objekt "Raumschiff" plaziert sind, werden die verbunden und zusammen zur Objekt der "Node". Der folgende Code sieht dann wie folgt aus:
+
+
+
+
+
 <a href="https://www.bilder-upload.eu/bild-15457b-1569484584.png.html" target="_blank"><img src="https://www.bilder-upload.eu/thumb/15457b-1569484584.png" border="1" alt="Bilder-Upload.eu - share DEINE Bilder" /></a>
+
+
+
+
 
 ### Zweiter Schritt:
 Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür werde ich die Maus als Controller nutzen. Für das im ersten Schritt erstellte Objekt schreibe ich also ein Skript wodurch das Raumschiff weiß, dass es meinem Mauszeiger folgen muss, sofern sich dieser bewegt. Dabei hatte ich zuerst das Problem, dass wenige Befehle in, der von mir verwendeten, neueren Version von Godot, verändert wurden. Die Funktion dieser bleibt dennoch die Gleiche. Zuerst also versuchte ich dieses Skript:
@@ -55,6 +64,18 @@ Zunächst muss ich dafür sorgen, dass ich mein Raumschiff steuern kann. Dafür 
 
 
 <a href="https://ibb.co/f2MRWKm"><img src="https://i.ibb.co/f2MRWKm/altes-skript-schiff.png" alt="altes-skript-schiff" border="0"></a>
+
+
+
+
+
+
+Nach einer Rechere auf dem Godot-Forum und Korrektur des Codes, kam ich zu diesem Ergebnis:
+
+
+
+
+<a href="https://ibb.co/0fB1w3q"><img src="https://i.ibb.co/LCQBGfS/Code-Schiff.png" alt="Code-Schiff" border="0"></a>
 
 
 
