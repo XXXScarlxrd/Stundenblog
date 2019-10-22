@@ -88,10 +88,16 @@ Als nächstes muss ich eine Hintergrund (Sterne) einfügen, welche von "oben" na
 
 ### Vierter Schritt:
 Nun habe ich ein Raumschiff, welches mit der Umwelt reagieren kann und gesteuert werden kann. Als nächstes programmiere ich also den ersten Gegner von zwei. Ich beginne, wie auch mit bei dem Schiff, damit eine Node zu erstellen welche eine Sprite und ein Skript bekommt. 
+Das Skript sieht für meinen "Enemy" wie folgt aus:
+
+<a href="https://ibb.co/FnDh7vZ"><img src="https://i.ibb.co/cxryT5f/Code-Enemy.png" alt="Code-Enemy" border="0"></a>
 
 
+Hierbei konnte ich die gleichen Befehle nutzen, wie sie auch im Video dargestellt werden. Eine weitere Recherche blieb mir hier also erspart.
 
+Allerdings musste ich noch ein weiteres Skript, an eine Kopie des Skripts des Enemys, anfügen, welche dafür sorgt dass diese Enemys oben im Spiel gespawnt werden. Dazu verwende ich diesen Skript:
 
+<a href="https://ibb.co/HnBKhcn"><img src="https://i.ibb.co/gzmr40z/code-spawner-enemy.png" alt="code-spawner-enemy" border="0"></a>
 
 
 ## Informatikstunde Nr. 6  (24.09.2019)
@@ -105,4 +111,11 @@ Allerdings sind meine Bilder auf dem USB-Stick und auf dem Rechner gespeichert. 
 Das Problem mit den zu kleinen Bildern, habe ich nun behoben. Ich musste lediglich einen anderen Befehl verwenden, welcher das Bild als "Vorschau" darstellt, sonder als "Vollbild". Die Bilder ludt ich im Internet mit der Website [ImgBB](https://de.imgbb.com/) hoch.
 
 ## Zuhausestunde Nr. 2  (10.10.2019)
+Ich arbeite dort weiter, wo ich gestoppt hatte.
+
+### Fünfter Schritt:
+Als nächstes programmiere ich meinem Schiff die Fähigkeit an, Projektile abfeuern zu können, womit man die "Enemys" zerstören kann. 
+Dazu erstelle ich ein weiteres Objekt aus einer Node mit den Anhängen einer Skript und Sprite. Diesem Objekt muss ich nun den Befehl geben an einer Koordinate, in meiner Schifftextur, zu erscheinen, von dort aus gerade nach vorne zu "fliegen", indem ich das Verhältnis zur Gravitation ändere, wodurch sie entgegengesetzt der Gravitation verlaufen. Dazu muss ich eine Collition-Node anfügen, wodurch die Projektile die Gegner treffen und ihnen Schaden zufügen können. 
+Dafür verwende ich diesen Code:
+
 
