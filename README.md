@@ -87,7 +87,7 @@ Als nächstes muss ich eine Hintergrund (Sterne) einfügen, welche von "oben" na
 
 
 ### Vierter Schritt:
-Nun habe ich ein Raumschiff, welches mit der Umwelt reagieren kann und gesteuert werden kann. Als nächstes programmiere ich also den ersten Gegner von zwei. Ich beginne, wie auch mit bei dem Schiff, damit eine Node zu erstellen welche eine
+Nun habe ich ein Raumschiff, welches mit der Umwelt reagieren kann und gesteuert werden kann. Als nächstes programmiere ich also den ersten Gegner von zwei. Ich beginne, wie auch mit bei dem Schiff, damit eine Node zu erstellen welche eine Sprite und ein Skript bekommt. 
 
 
 
@@ -101,6 +101,8 @@ Heute schreibe ich lediglich meinen Studenblog weiter. Dabei beschreibe ich, was
 Heute habe ich gemerkt,dass ich keine Bilder in meinem Studenblog einfügen kann, sofern ich es nicht über einen Web-Link versuche. 
 Allerdings sind meine Bilder auf dem USB-Stick und auf dem Rechner gespeichert. Also versuche ich die Bilder auf Google hochzuladen. Allerdings fallen diese dann in viel zu kleiner Auflösung aus.
 
-## Informatikstunde Nr. 8  (26-09-2019)
+## Informatikstunde Nr. 8  (26.09.2019)
 Das Problem mit den zu kleinen Bildern, habe ich nun behoben. Ich musste lediglich einen anderen Befehl verwenden, welcher das Bild als "Vorschau" darstellt, sonder als "Vollbild". Die Bilder ludt ich im Internet mit der Website [ImgBB](https://de.imgbb.com/) hoch.
+
+## Zuhausestunde Nr. 2  (10.10.2019)
 
