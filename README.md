@@ -119,3 +119,23 @@ Dazu erstelle ich ein weiteres Objekt aus einer Node mit den Anhängen einer Skr
 Dafür verwende ich diesen Code:
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Informatikstunde Nr. 9  (23.10.2019)
+Heute habe ich mir vorgenommen die Seite, auf welcher ich mein Spiel vorstelle, zu erarbeiten. Dazu suchte ich zuerst eine Möglichkeit mir eine kostenlose Internetseite einzurichten, auf welcher ich mein Spiel mit Bildern und Texten vorstelle, so wie es große Spieleentwickler mit ihren neuen Spielen tun.
+Dazu nutze ich die Internetseite [Wix.com](https://de.wix.com)
+
