@@ -141,3 +141,16 @@ Dazu nutze ich die Internetseite [Wix.com](https://de.wix.com)
 Hier erstelle ich meine eigene kostenlose Seite: [Musicblaster](https://msteglich.wixsite.com/musicblaster). 
 Diese bearbeite ich so, dass sie mein Spiel gut vorstellt.
 
+## Informatikstunde Nr. 10  (24.10.2019)
+Heute habe ich noch etwas an meiner Website gearbeitet, wobei ich denke, sie gut gestaltet zu haben.
+Zudem schrieb ich meinen Stundenblog weiter.
+
+
+
+## Informatikstunde Nr. 11  (29.10.2019)
+Ich habe versucht euine Musikdatei in mein Spiel einzufügen, welche mein Raumschiff "einsammeln" kann, wodurch eigentlich Musik gespielt werden sollte. Allerdings gelingt mir das nicht, da die Dateien auf dem Schul-Computer verschoben wurden. Meine Engine kann nicht auf diese Dateien zugreifen. Zudem verutscht die Auflösung in meiner Engine gelegentlich, was meine Arbeit um einiges erschwert. Das ist also ein Problem, welches ich Zuhause beheben muss.
+Zudem stehe ich Zuhause auch noch vor dem Problem, dass ich die Projektlile, welche mein Schiff schießen soll, nicht programmiert bekomme. Eine Lösung habe ich leider noch nicht gefunden.
+
+## Zuhausestunde(n) Nr. 2  (29.10.2019)
+
+
