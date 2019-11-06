@@ -152,5 +152,13 @@ Ich habe versucht euine Musikdatei in mein Spiel einzufügen, welche mein Raumsc
 Zudem stehe ich Zuhause auch noch vor dem Problem, dass ich die Projektlile, welche mein Schiff schießen soll, nicht programmiert bekomme. Eine Lösung habe ich leider noch nicht gefunden.
 
 ## Zuhausestunde(n) Nr. 2  (29.10.2019)
+Ich habe festgestellt, dass ich mit der 3.0 Version von Godot nicht weiter komme. Ich finde, selbst nach langer Suche, keinen passenden Code, welcher dafür sorgt dass die geschossenen Projektile ihren eigen linearen Weg folgen. 
+Ich sehe mich gezwungen eine ältere Version der Engine aufzusuchen und werde fündig: [Godot Engine - old versionen](https://godot-engine.en.uptodown.com/windows/versions).
+Ich wiederhole nun also alle Schritte beschrieben unter dem Artikel Zuhausesunde Nr. 1, mit einer älteren Verison, in welcher mein ode funktionieren sollte.
 
+### Fünfter Schritt (vorherige Schritte unter "Zuhausestunde(n) Nr. 1")
+Ich programmierte also die Projektile, welche aus meinem Schiff geschossen werden. Dabei bekamen diese Objekte lediglich den befehl an bestimmten Koordinaten meines Schiffs-Objektes zu erscheinen und eine Negative Gravitation aufzuweisen. Zudem befehle ich, dass diese Objekte verschwinden bzw. gelöscht werden, sofern diese aus dem Bild verschwinden.
+Ich schrieb zudem einen Code und richtete eine Animation ein, welche an der Stelle, an welcher die Projektile entsehen, einen Feuer-Effekt einrichteten. Dieser erscheint auch, wenn Gegner getroffen werden.
+
+### Sechster Schritt
 
