@@ -158,7 +158,26 @@ Ich wiederhole nun also alle Schritte beschrieben unter dem Artikel Zuhausesunde
 
 ### Fünfter Schritt (vorherige Schritte unter "Zuhausestunde(n) Nr. 1")
 Ich programmierte also die Projektile, welche aus meinem Schiff geschossen werden. Dabei bekamen diese Objekte lediglich den befehl an bestimmten Koordinaten meines Schiffs-Objektes zu erscheinen und eine Negative Gravitation aufzuweisen. Zudem befehle ich, dass diese Objekte verschwinden bzw. gelöscht werden, sofern diese aus dem Bild verschwinden.
-Ich schrieb zudem einen Code und richtete eine Animation ein, welche an der Stelle, an welcher die Projektile entsehen, einen Feuer-Effekt einrichteten. Dieser erscheint auch, wenn Gegner getroffen werden.
+Ich schrieb zudem einen Code und richtete eine Animation ein, welche an der Stelle, an welcher die Projektile entsehen, einen Feuer-Effekt einrichteten. Dieser erscheint auch, wenn Gegner getroffen werden. 
 
 ### Sechster Schritt
+Mit dem Code für die Lasergeschosse, aus dem fünften Schritt, werde ich nun einen zweiten Gegner erstellen, welcher Laser gegen mein Schiff schießt. Hierfür verwende ich den gleichen Code für die Laser, richte ihre Gravitation aber in die andere Richtung, so dass sie nach "unten" laufen. Dazu füge ich den Code meines ersten erstellten Gegners und füge noch den Befehl hinzu, dass dieser nicht in einer geraden Linie läuft, sondern auch etwas seitlich und dabei am Bildrand abspringt. Nach einem Test wird mir gemeldet, dass ein Befehl nicht erkannt werden kann. Ich suchte nach diesem, fand einen Schreibfehler und korrigierte ihn, was den Fehler behob.
 
+### Siebter Schritt
+Um darzustellen, dass mein Schif Schaden bei Kontakt mit den Gegnern oder ihren Lasern kommt, Schaden erleidet, füge ich eine weiter Animation ein, welche "über" allen Objekten stattfindet. Diese ANimation besteht lediglich daraus den ganzen Bildschirm kurz rot werden zu lassen. Außerdem füge ich einen Lebensbalken ein, wobei es eigentlich 4 sind, welche untereinander liegen, mit jeweils einem Balken weniger als der andere. Ich programmiere diese Stelle also nun so, dass wenn immer mein Schiff Schaden erleidet, eine Schicht dieser vier Texturen ausgeblendet wird. Dadurch ist die untere im Vordergrund und es wirkt so, als wäre ein Balken verschwunden.
+Nach einer Korrektur von 4 Zeil- und Schreibfehlern funktioniert das ganze einwandfrei.
+
+### Achter Schritt
+ZUnächst möchte ich weitere Animationen einfügen, welche eine Explosion darstellen, sofern ein Objekt all seine Leben verloren hat. Dafür code ich die Eigenschaft "armor" ein und programmiere ich jedem Objekt eine Anzahl von "armor" ein und erstelle eine Animation, mit Partikel-effekten. Diese erscheint nun immer, wenn ein Gegner oder mein Schiff zersört wird. Also befehle ich der Animation immer dann zu erscheinen, wenn ein Objekt all seine "armor" verloren hat.
+
+### Neunter Schritt
+HUD- Menu
+
+### Zehnter Schritt
+Power Ups
+
+### Elfter Schritt
+Sounds
+
+### Zwölfter Schritt
+High Score und Saving
