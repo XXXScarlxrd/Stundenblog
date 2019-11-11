@@ -171,13 +171,6 @@ Nach einer Korrektur von 4 Zeil- und Schreibfehlern funktioniert das ganze einwa
 ZUnächst möchte ich weitere Animationen einfügen, welche eine Explosion darstellen, sofern ein Objekt all seine Leben verloren hat. Dafür code ich die Eigenschaft "armor" ein und programmiere ich jedem Objekt eine Anzahl von "armor" ein und erstelle eine Animation, mit Partikel-effekten. Diese erscheint nun immer, wenn ein Gegner oder mein Schiff zersört wird. Also befehle ich der Animation immer dann zu erscheinen, wenn ein Objekt all seine "armor" verloren hat.
 
 ### Neunter Schritt
-HUD- Menu
+Zu guter Letzt gebe ich meinem Spiele ein "HUD" (Head-up-display), durch welches der Spieler sehen kann, wie viele Leben sein Schiff besitzt und wie viele Punkte er, durch das zerstören von Gegnern, besitzt. Zudem erstelle ich ein Menu, mit welchem man das Spiel starten und beenden kann. Dieses Menu erscheint beim Öffnen des Spiels und sobald das Schiff zerstört wurde.
 
-### Zehnter Schritt
-Power Ups
 
-### Elfter Schritt
-Sounds
-
-### Zwölfter Schritt
-High Score und Saving
