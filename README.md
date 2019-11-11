@@ -173,4 +173,7 @@ ZUnächst möchte ich weitere Animationen einfügen, welche eine Explosion darst
 ### Neunter Schritt
 Zu guter Letzt gebe ich meinem Spiele ein "HUD" (Head-up-display), durch welches der Spieler sehen kann, wie viele Leben sein Schiff besitzt und wie viele Punkte er, durch das zerstören von Gegnern, besitzt. Zudem erstelle ich ein Menu, mit welchem man das Spiel starten und beenden kann. Dieses Menu erscheint beim Öffnen des Spiels und sobald das Schiff zerstört wurde.
 
+### Letzter Schritt für mein Projekt "SHOOTEM!"
+Ich gebe meiner Website einen letzten Feinschliff und gebe die Links für mein Spiel ein.
+
 
