@@ -8,9 +8,8 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  Somit fasste ich zusammen, was mein Spiel folgendes beinhalten soll:
  
  1. Eine 2D-Welt mit einfachen Texturen 
- 2. Eine packende Spielmechanik, welche den Spieler zum weiteren Verushen treibt.
- 3. In Erinnerung bleibende Effekte, wie Musik, Texturen oder Texte.
- 4. Der Spieler kann gerne ans Ende seiner Nerven gelangen.
+ 2. Eine packende Spielmechanik, welche den Spieler zum weiteren Versuchen treibt.
+ 3. Der Spieler kann gerne ans Ende seiner Nerven gelangen.
  
  ## Informatikstunde Nr. 2  (20.08.2019)
  Heute beginne ich mit dem Schreiben meines Stundenblogs, wofür ich mir eine Liste mit Befehlen im Internet raussuche, denn der Blog wird im Code geschrieben. Ich wurde schnell fündig und habe nun, wenn immer ich am Blog schreibe, diese Liste mit Befehlen offen: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
