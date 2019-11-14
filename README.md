@@ -7,8 +7,8 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  und dennoch "fesselnd" strukturiert sein.
  Somit fasste ich zusammen, was mein Spiel folgendes beinhalten soll:
  
- 1. Eine 2D-Welt mit einfachen Texturen 
- 2. Eine packende Spielmechanik, welche den Spieler zum weiteren Versuchen treibt.
+ 1. Eine 2D-Welt, mit einfachen Texturen 
+ 2. Eine packende Spielmechanik, welche den Spieler zu weiteren Versuchen treibt.
  3. Der Spieler kann gerne ans Ende seiner Nerven gelangen.
  
  ## Informatikstunde Nr. 2  (20.08.2019)
@@ -19,7 +19,7 @@ Dennoch wollte ich ein Spiel programmieren, denn sowas wollte ich schon immer ma
  
  ## Informatikstunde Nr. 3  (21.08.2019)
  Heute suche ich mir ein Programm aus, mit welchem ich mein Projekt verwirklichen möchte. Dabei suche ich viele Arten von einfachen Programmiersprachen, welche gut für Anfänger geeignet sind. Nachdem ich mir die Möglichkeiten und Schwierigkeitsgrade verschiedener Sprachen angeschaut hatte, entschied ich mich nach ["Greenfoot"](https://www.greenfoot.org/door) und ["Unity"](https://unity.com/de) für die ["Godot-Engine"](https://godotengine.org/).
- Diese Engine besitzt die Möglichkeit mir, als Anfänger, hilfreiche Vorlagen zu bieten und zudem viele aufschlussreiche Tutorials. Außerdem gibt es eine einfach Hilfe in der Engine selber, wodurch ich einfach wichige Befehle und ihre Funktion finde.
+Diese Engine besitzt die Möglichkeit,mir, als Anfänger, hilfreiche Vorlagen zu bieten und zudem viele aufschlussreiche Tutorials. Außerdem gibt es eine einfach Hilfe in der Engine selber, wodurch ich einfach wichige Befehle und ihre Funktion finde.
  Zudem kann ich nun mich einfach zwischen einer 2D- oder 3D-Welt entscheiden, wobei ich mich für eine 2D-Welt entscheide:
  ![Menu erster test](https://user-images.githubusercontent.com/9617583/28182906-940ac83a-67db-11e7-8472-59ce285900b1.gif)
 
@@ -27,7 +27,7 @@ Nun werde ich beginnen heruszufinden, wie ich texturen in das Spiel bekomme und 
 
 ## Informatikstunde Nr. 4  (27.08.2019)
 Heute habe ich angefangen die ersten zwei Vidoes, der Videoreihe, anzuschauen. Damit konnte ich mir einen kleinen Überblick verschaffen, bezüglich der Frage, wie man überhaupt beginnt mit solch einer Programmierung und was ich dazu benötige. 
-Ich weiß nun, dass ich ein Texturenprogramm brauche, in welchem ich meine Figuren erstellen kann, wenn ich dies tun möchte. Allerdings kann ich auch Bilder aus dem Internet verwernden, wobei es sicherlich viele hilfreiche Foren, mit vorgefertigten Texturen gibt. Ich weiß nun zudem, dass wie ich mir meine Engine so sortiere, dass es so bequem, wie möglich fpr mich ist, wenn ich anfange zu proframmieren.
+Ich weiß nun, dass ich ein Texturenprogramm brauche, in welchem ich meine Figuren erstellen kann, wenn ich dies tun möchte. Allerdings kann ich auch Bilder aus dem Internet verwernden, wobei es sicherlich viele hilfreiche Foren, mit vorgefertigten Texturen gibt. Ich weiß nun zudem, wie ich mir meine Engine so sortiere, dass es so bequem, wie möglich für mich ist, wenn ich anfange zu programmieren.
 
 Ich beginne also damit, Bilder im Internet zu suchen, welche ich im Spiel verwenden möchte. Dafür lege ich einen neuen Ordner auf dem Desktop an, in welchem ich meine Dateien vorerst sotiere.
 
@@ -100,7 +100,7 @@ Allerdings musste ich noch ein weiteres Skript, an eine Kopie des Skripts des En
 
 
 ## Informatikstunde Nr. 6  (24.09.2019)
-Heute schreibe ich lediglich meinen Studenblog weiter. Dabei beschreibe ich, was ich Zuhause erarbeitet habe in einzelnen Schritten.
+Heute schreibe ich lediglich meinen Studenblog weiter. Dabei beschreibe ich, was ich Zuhause erarbeitet habe,in einzelnen Schritten.
 
 ## Informatikstunde Nr. 7  (25.09.2019)
 Heute habe ich gemerkt,dass ich keine Bilder in meinem Studenblog einfügen kann, sofern ich es nicht über einen Web-Link versuche. 
@@ -110,7 +110,7 @@ Allerdings sind meine Bilder auf dem USB-Stick und auf dem Rechner gespeichert. 
 Das Problem mit den zu kleinen Bildern, habe ich nun behoben. Ich musste lediglich einen anderen Befehl verwenden, welcher das Bild als "Vorschau" darstellt, sonder als "Vollbild". Die Bilder ludt ich im Internet mit der Website [ImgBB](https://de.imgbb.com/) hoch.
 
 ## Zuhausestunde Nr. 2  (10.10.2019)
-Ich arbeite dort weiter, wo ich gestoppt hatte.
+Ich arbeite dort weiter, wo ich aufgehört hatte.
 
 ### Fünfter Schritt:
 Als nächstes programmiere ich meinem Schiff die Fähigkeit an, Projektile abfeuern zu können, womit man die "Enemys" zerstören kann. 
@@ -137,8 +137,8 @@ Dafür verwende ich diesen Code:
 ## Informatikstunde Nr. 9  (23.10.2019)
 Heute habe ich mir vorgenommen die Seite, auf welcher ich mein Spiel vorstelle, zu erarbeiten. Dazu suchte ich zuerst eine Möglichkeit mir eine kostenlose Internetseite einzurichten, auf welcher ich mein Spiel mit Bildern und Texten vorstelle, so wie es große Spieleentwickler mit ihren neuen Spielen tun.
 Dazu nutze ich die Internetseite [Wix.com](https://de.wix.com)
-Hier erstelle ich meine eigene kostenlose Seite: [Musicblaster](https://msteglich.wixsite.com/musicblaster). 
-Diese bearbeite ich so, dass sie mein Spiel gut vorstellt.
+Hier erstelle ich meine eigene kostenlose Seite: [SHOOTEM!](https://msteglich.wixsite.com/shootem). 
+Diese bearbeite ich so, dass sie mein Spiel gut vorstellt, ohne dabei das ganze Spiel zu zeigen.
 
 ## Informatikstunde Nr. 10  (24.10.2019)
 Heute habe ich noch etwas an meiner Website gearbeitet, wobei ich denke, sie gut gestaltet zu haben.
