@@ -151,29 +151,32 @@ Ich habe versucht euine Musikdatei in mein Spiel einzufügen, welche mein Raumsc
 Zudem stehe ich Zuhause auch noch vor dem Problem, dass ich die Projektlile, welche mein Schiff schießen soll, nicht programmiert bekomme. Eine Lösung habe ich leider noch nicht gefunden.
 
 ## Zuhausestunde(n) Nr. 2  (29.10.2019)
-Ich habe festgestellt, dass ich mit der 3.0 Version von Godot nicht weiter komme. Ich finde, selbst nach langer Suche, keinen passenden Code, welcher dafür sorgt dass die geschossenen Projektile ihren eigen linearen Weg folgen. 
+Ich habe festgestellt, dass ich mit der 3.0 Version von Godot nicht weiter komme. Ich finde, selbst nach langer Suche, keinen passenden Code, welcher dafür sorgt dass die geschossenen Projektile ihren eigenen linearen Pfad folgen. 
 Ich sehe mich gezwungen eine ältere Version der Engine aufzusuchen und werde fündig: [Godot Engine - old versionen](https://godot-engine.en.uptodown.com/windows/versions).
-Ich wiederhole nun also alle Schritte beschrieben unter dem Artikel Zuhausesunde Nr. 1, mit einer älteren Verison, in welcher mein ode funktionieren sollte.
+Ich wiederhole nun also alle Schritte, beschrieben unter dem Artikel Zuhausesunde Nr. 1, mit einer älteren Verison, in welcher mein Code funktionieren sollte.
 
-### Fünfter Schritt (vorherige Schritte unter "Zuhausestunde(n) Nr. 1")
-Ich programmierte also die Projektile, welche aus meinem Schiff geschossen werden. Dabei bekamen diese Objekte lediglich den befehl an bestimmten Koordinaten meines Schiffs-Objektes zu erscheinen und eine Negative Gravitation aufzuweisen. Zudem befehle ich, dass diese Objekte verschwinden bzw. gelöscht werden, sofern diese aus dem Bild verschwinden.
-Ich schrieb zudem einen Code und richtete eine Animation ein, welche an der Stelle, an welcher die Projektile entsehen, einen Feuer-Effekt einrichteten. Dieser erscheint auch, wenn Gegner getroffen werden. 
+### Fünfter Schritt 2.0 (vorherige Schritte unter "Zuhausestunde(n) Nr. 1")
+Ich programmierte also die Projektile, welche aus meinem Schiff geschossen werden. Dabei bekamen diese Objekte lediglich den befehl an bestimmten Koordinaten meines Schiffs-Objektes zu erscheinen und eine negative Gravitation aufzuweisen. Zudem befehle ich, dass diese Objekte verschwinden bzw. gelöscht werden, sofern diese aus dem sichtbaren Bild verschwinden.
+Ich schrieb zudem einen Code und richtete eine Animation ein, welche an der Stelle, an welcher die Projektile entstehen, einen Feuer-Effekt einrichteten. Dieser erscheint auch, wenn Gegner getroffen werden. 
 
 ### Sechster Schritt
-Mit dem Code für die Lasergeschosse, aus dem fünften Schritt, werde ich nun einen zweiten Gegner erstellen, welcher Laser gegen mein Schiff schießt. Hierfür verwende ich den gleichen Code für die Laser, richte ihre Gravitation aber in die andere Richtung, so dass sie nach "unten" laufen. Dazu füge ich den Code meines ersten erstellten Gegners und füge noch den Befehl hinzu, dass dieser nicht in einer geraden Linie läuft, sondern auch etwas seitlich und dabei am Bildrand abspringt. Nach einem Test wird mir gemeldet, dass ein Befehl nicht erkannt werden kann. Ich suchte nach diesem, fand einen Schreibfehler und korrigierte ihn, was den Fehler behob.
+Mit dem Code für die Lasergeschosse, aus dem fünften Schritt, werde ich nun einen zweiten Gegner erstellen, welcher Laser gegen mein Schiff schießt. Hierfür verwende ich den gleichen Code für die Laser, richte ihre Gravitation aber in die positive Richtung, so dass sie nach "unten" laufen. Dazu füge ich den Code meines ersten erstellten Gegners und füge noch den Befehl hinzu, dass dieser nicht in einer geraden Linie läuft, sondern auch etwas seitlich und dabei am Bildrand abspringt. Nach einem Test wird mir gemeldet, dass ein Befehl nicht erkannt werden kann. Ich suchte nach diesem, fand einen Schreibfehler und korrigierte ihn, was den Fehler behob.
 
 ### Siebter Schritt
-Um darzustellen, dass mein Schif Schaden bei Kontakt mit den Gegnern oder ihren Lasern kommt, Schaden erleidet, füge ich eine weiter Animation ein, welche "über" allen Objekten stattfindet. Diese ANimation besteht lediglich daraus den ganzen Bildschirm kurz rot werden zu lassen. Außerdem füge ich einen Lebensbalken ein, wobei es eigentlich 4 sind, welche untereinander liegen, mit jeweils einem Balken weniger als der andere. Ich programmiere diese Stelle also nun so, dass wenn immer mein Schiff Schaden erleidet, eine Schicht dieser vier Texturen ausgeblendet wird. Dadurch ist die untere im Vordergrund und es wirkt so, als wäre ein Balken verschwunden.
+Um darzustellen, dass mein Schif Schaden bei Kontakt mit den Gegnern oder ihren Lasern kommt, Schaden erleidet, füge ich eine weitere Animation ein, welche "über" allen Objekten stattfindet. Diese Animation besteht lediglich daraus den ganzen Bildschirm kurz rot werden zu lassen. Außerdem füge ich einen Lebensbalken ein, wobei es eigentlich 4 sind, welche untereinander liegen, mit jeweils einem Balken weniger als der Draufliegende. Ich programmiere diese Stelle also nun so, dass wenn immer mein Schiff Schaden erleidet, eine Schicht dieser vier Texturen ausgeblendet wird. Dadurch ist die untere im Vordergrund und es wirkt so, als wäre ein Balken verschwunden.
 Nach einer Korrektur von 4 Zeil- und Schreibfehlern funktioniert das ganze einwandfrei.
 
 ### Achter Schritt
-ZUnächst möchte ich weitere Animationen einfügen, welche eine Explosion darstellen, sofern ein Objekt all seine Leben verloren hat. Dafür code ich die Eigenschaft "armor" ein und programmiere ich jedem Objekt eine Anzahl von "armor" ein und erstelle eine Animation, mit Partikel-effekten. Diese erscheint nun immer, wenn ein Gegner oder mein Schiff zersört wird. Also befehle ich der Animation immer dann zu erscheinen, wenn ein Objekt all seine "armor" verloren hat.
+Zunächst möchte ich weitere Animationen einfügen, welche eine Explosion darstellen, sofern ein Objekt all seine Leben verloren hat. Dafür code ich die Eigenschaft "armor" ein und programmiere jedem Objekt eine Anzahl von "armor" an und erstelle eine Animation, mit Partikel-effekten. Diese erscheint nun immer, wenn ein Gegner oder mein Schiff zersört wird. Also befehle ich der Animation immer dann zu erscheinen, wenn ein Objekt all seine "armor" verloren hat. Zudem wird mit dieser Animation, bzw. mit dem Punkt "armor = 0" das Objekt gelöscht.
 
 ### Neunter Schritt
-Zu guter Letzt gebe ich meinem Spiele ein "HUD" (Head-up-display), durch welches der Spieler sehen kann, wie viele Leben sein Schiff besitzt und wie viele Punkte er, durch das zerstören von Gegnern, besitzt. Zudem erstelle ich ein Menu, mit welchem man das Spiel starten und beenden kann. Dieses Menu erscheint beim Öffnen des Spiels und sobald das Schiff zerstört wurde.
+Zu guter Letzt gebe ich meinem Spiele ein "HUD" (Head-up-display), durch welches der Spieler sehen kann, wie viele Leben sein Schiff besitzt und wie viele Punkte er, durch das zerstören von Gegnern, besitzt. Die Zahl im HUD, welche den Score anzeigt ist so gecodet, dass sie bei jeder Löschung von einem Gegner eine 5 addiert. Zudem erstelle ich ein Menu, mit welchem man das Spiel starten und beenden kann. Dieses Menu erscheint beim Öffnen des Spiels und sobald das Schiff zerstört wurde.
 
 ### Letzter Schritt für mein Projekt "SHOOTEM!"
-Ich gebe meiner Website einen letzten Feinschliff und errichte einen Button auf meiner Website, welcher einen zu meiner Dropbox bringt, aus welcher man alles nötige dowloaden kann
+Ich gebe meiner Website einen letzten Feinschliff und errichte einen Button auf meiner Website, welcher einen zu meiner Dropbox bringt, aus welcher man Alles nötige, für das Spiel downloaden kann.
+
+## Informatikstunde Nr. 12  (12.11.2019) 
+Heute beende ich mein Projekt. Ich korrigiere kleine Fehler im Stundenblog und speichere meine Website. Mein Lehrer bekommt nun die benötigten Links zugesendet und damit ist mein Projekt "SHOOTEM!" fertig.
 
 
 
